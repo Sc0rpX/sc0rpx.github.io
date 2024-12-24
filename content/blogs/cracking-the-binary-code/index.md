@@ -1,5 +1,6 @@
 ---
 title: "Cracking Binary: How Computers Work with 0s and 1s"
+date: 2024-02-16T23:02:51+06:00
 draft: false
 ---
 
