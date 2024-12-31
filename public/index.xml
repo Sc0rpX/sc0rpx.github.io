@@ -19,5 +19,35 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/cracking-the-binary-code/feature.gif" />
     </item>
     
+    <item>
+      <title>Binary Secret</title>
+      <link>http://localhost:1313/write-ups/ctfs/crypto/binarysecret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/write-ups/ctfs/crypto/binarysecret/</guid>
+      <description>Challenge description # The challenge provided two files:</description>
+      
+    </item>
+    
+    <item>
+      <title>LooK!</title>
+      <link>http://localhost:1313/write-ups/ctfs/web/look/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/write-ups/ctfs/web/look/</guid>
+      <description>Challenge Description # The challenge provided a website URL and the hint:</description>
+      
+    </item>
+    
+    <item>
+      <title>Pathy</title>
+      <link>http://localhost:1313/write-ups/ctfs/web/pathy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/write-ups/ctfs/web/pathy/</guid>
+      <description>Challenge description # We were given a website URL and a hint in the description:</description>
+      
+    </item>
+    
   </channel>
 </rss>

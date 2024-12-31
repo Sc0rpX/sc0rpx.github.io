@@ -4,4 +4,5 @@ title: "Write-ups"
 showCards: false
 cardView: true
 showDate: false
+showSummary: true
 ---
