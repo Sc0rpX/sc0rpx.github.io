@@ -1,4 +1,0 @@
----
-title: "VulnHub"
-showDate: false
----

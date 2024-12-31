@@ -1,4 +1,4 @@
 ---
-title: "PicoCTF"
+title: "CTF"
 showDate: false
 ---

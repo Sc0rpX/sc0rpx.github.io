@@ -1,4 +1,0 @@
----
-title: "HackTheBox"
-showDate: false
----
