@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/blogs/cracking-the-binary-code/</guid>
       <description>Welcome to the world of computers!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/cracking-the-binary-code/feature.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blogs/cracking-the-binary-code/feature.png" />
     </item>
     
   </channel>

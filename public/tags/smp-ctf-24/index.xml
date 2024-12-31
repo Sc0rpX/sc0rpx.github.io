@@ -29,5 +29,15 @@
       
     </item>
     
+    <item>
+      <title>Pathy</title>
+      <link>http://localhost:1313/write-ups/ctfs/web/pathy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/write-ups/ctfs/web/pathy/</guid>
+      <description>Challenge description # We were given a website URL and a hint in the description:</description>
+      
+    </item>
+    
   </channel>
 </rss>
