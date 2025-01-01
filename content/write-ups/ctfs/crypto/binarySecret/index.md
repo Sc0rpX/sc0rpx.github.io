@@ -71,6 +71,4 @@ print("Flag:", flag)
 
 If you’re a noob like me, then you can also use ChatGPT to write this script.
 
-After running the script, it decoded the binary data and revealed the flag:
-
-**Flag:**  `SMP{F1ag_FOR_#L0ve}`
+After running the script, it decoded the binary data and revealed the flag.

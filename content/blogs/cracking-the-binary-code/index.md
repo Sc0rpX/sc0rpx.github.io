@@ -2,6 +2,7 @@
 title: "Cracking Binary: How Computers Work with 0s and 1s"
 date: 2024-02-16T23:02:51+06:00
 draft: false
+tags: ["Binary", "Numeral Systems"]
 ---
 
 Welcome to the world of computers! Have you ever wondered how these amazing machines actually work? Well, one of the key things to understand is something called Binary. It might sound complicated, but don’t worry, we’ll break it down for you.

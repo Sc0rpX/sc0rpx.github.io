@@ -6,8 +6,28 @@
     <description>Recent content in Tags on Sc0rpX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Md Mahfuzur Rahman Safin</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Md Mahfuzur Rahman Safin</copyright>
+    <lastBuildDate>Fri, 16 Feb 2024 23:02:51 +0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Binary</title>
+      <link>http://localhost:1313/tags/binary/</link>
+      <pubDate>Fri, 16 Feb 2024 23:02:51 +0600</pubDate>
+      
+      <guid>http://localhost:1313/tags/binary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numeral Systems</title>
+      <link>http://localhost:1313/tags/numeral-systems/</link>
+      <pubDate>Fri, 16 Feb 2024 23:02:51 +0600</pubDate>
+      
+      <guid>http://localhost:1313/tags/numeral-systems/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>SMP CTF 24</title>

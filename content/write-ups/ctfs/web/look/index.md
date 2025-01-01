@@ -47,7 +47,3 @@ Once I had access to the server through the shell, I ran the command `find / -na
  This revealed a file named `/root/flag.txt`. Using the `cat` command, I viewed the content of the file and successfully retrieved the flag.
 
 <img src="flag.png">
-
-### Final Flag
-
-**`SMP{f0d3e7be53fd70405c9b03817b6d2a1e}`**

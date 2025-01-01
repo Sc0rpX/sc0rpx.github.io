@@ -49,10 +49,3 @@ I entered the payload into the input field and clicked the search button. This t
 
 <img src="exploitx.png">
 
----
-
-### Final Flag
-
-The flag for the challenge was revealed as:
-
-**`SMP{f3924191bfd367fbaf57b165e526b03f}`**
